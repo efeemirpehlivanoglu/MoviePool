@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "f6f1dc77-615a-4414-bf0d-f1a03e8e9714",
+    "Title": "Oldboy",
+    "IsWatched": false,
+    "AddedDate": "2026-05-18T10:26:25.5503576+03:00"
+  },
+  {
+    "Id": "a1ca8888-8702-4e2c-947c-c69c15075ea3",
+    "Title": "Rush",
+    "IsWatched": false,
+    "AddedDate": "2026-05-18T10:26:32.8587589+03:00"
+  },
+  {
+    "Id": "884f3097-69b3-4d2c-9e04-3d7024632510",
+    "Title": "Wind River",
+    "IsWatched": false,
+    "AddedDate": "2026-05-18T10:26:52.44007+03:00"
+  }
+]
